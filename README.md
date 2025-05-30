@@ -2,7 +2,7 @@
 
 This is a simple CI/CD project deploying a Flask app to Kubernetes via Jenkins. 
 
-Happy to publish my first project :)
+Happy to publish my first CI/CD project :)
 
 ## Components
 
